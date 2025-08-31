@@ -23,7 +23,7 @@ It integrates with **Amazon Bedrock (Claude models)** using a Bearer token.
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/cli-help.git
+git clone https://github.com/pavithrankb/ai-cli-help
 cd cli-help
 
 # Build
